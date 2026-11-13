@@ -1,0 +1,6 @@
+{
+  "name": "EcoMonitor Dashboard",
+  "description": "A modern, minimalist dashboard for agricultural environment monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
